@@ -2,6 +2,7 @@
 
 !.github
 !.github/workflows
+!.github/workflows/main.yml
 !.gitignore
 !app.py
 !requirements.txt
