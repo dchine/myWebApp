@@ -6,3 +6,5 @@
 !.gitignore
 !app.py
 !requirements.txt
+!test_web_app.py
+!wsgi.py
