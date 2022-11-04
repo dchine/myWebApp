@@ -1,5 +1,8 @@
 *
 
+!.github
+!.github/workflows
+!.github/workflows/build_and_test.yml
 !.gitignore
 !app.py
 !requirements.txt
